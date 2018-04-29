@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#283593</color>
+    <color name="colorPrimaryDark">#1a237e</color>
+    <color name="colorAccent">#0d47a1</color>
+
+
+    <color name="World">#9fa8da</color>
+
+    <color name="Travel">#a5d6a7</color>
+
+    <color name="Environment">#80deea</color>
+
+    <color name="Business">#ffcc80</color>
+
+    <color name="Cities">#FF7D50</color>
+
+    <color name="UK">#ef9a9a</color>
+
+    <color name="Science">#80cbc4</color>
+
+    <color name="Books">#ef9a9a</color>
+
+    <color name="Misc">#9fa8da</color>
+
+
+</resources>
